@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_exceInfo"
+        android:layout_centerVertical="true"
+        android:layout_width="48dp"
+        android:layout_height="37dp"
+        android:layout_weight="1"
+        android:src="@drawable/pause" />
+
+    <TextView
+        android:id="@+id/tv_category"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_toRightOf="@+id/iv_exceInfo"
+        android:layout_centerVertical="true"
+        android:layout_width="48dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="巡检" />
+
+    <TableLayout
+        android:layout_alignParentRight="true"
+        android:id="@+id/tl_exceInfo"
+        android:layout_toRightOf="@+id/tv_category"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="3">
+
+        <TableRow>
+            <TextView
+                android:id="@+id/tv_exceP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="执行人员:" />
+
+            <TextView
+                android:id="@+id/et_exceP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="郭晓昌" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/tv_exceDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="执行日期:" />
+
+            <TextView
+                android:id="@+id/et_exceDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="2016-9-21" />
+        </TableRow>
+    </TableLayout>
+
+
+</RelativeLayout>

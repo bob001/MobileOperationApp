@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btn_back"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:onClick="onClick" 
+    android:clickable="true">
+
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="18dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/arrow_left_backbtn_gray" 
+        android:clickable="false"/>
+
+</RelativeLayout>

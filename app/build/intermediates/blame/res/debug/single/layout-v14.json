@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\activity_detai_info__tour_inspection.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout-v14\\activity_detai_info__tour_inspection.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\abc_activity_chooser_view.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout-v14\\abc_activity_chooser_view.xml"
+    }
+]

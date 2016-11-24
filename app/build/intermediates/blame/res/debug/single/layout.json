@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\operation_fragment.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\operation_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xunjian_tireply.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_xunjian_tireply.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_walk_route_detail.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_walk_route_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_dialog.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\time_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bus_segment.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\item_bus_segment.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\capture_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiangxiu_order_handle.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_qiangxiu_order_handle.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewitem_detail_info_tourinspection.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\listviewitem_detail_info_tourinspection.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_keyword_search.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\item_keyword_search.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\PullToRefreshListView\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_district.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\item_district.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routemap.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_routemap.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preview_photo.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_preview_photo.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xunjian_tidetailinfo.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_xunjian_tidetailinfo.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewitem_inspection.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\listviewitem_inspection.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cloud_data_search.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_cloud_data_search.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slideshowview_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\slideshowview_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xunshi_order_handle.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_xunshi_order_handle.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\category.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tour_common.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\tour_common.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_title.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\main_title.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detailinfo_tour_inspection.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\detailinfo_tour_inspection.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiangxiu_alarm_info.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_qiangxiu_alarm_info.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_city_choose.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\popup_city_choose.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapitem_listview.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\mapitem_listview.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_white_navigation.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\header_white_navigation.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\PullToRefreshListView\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bus_segment_extends.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\item_bus_segment_extends.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xunshi_order_receive.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_xunshi_order_receive.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btn_back_white.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\btn_back_white.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inspectation_list_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\inspectation_list_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tour_inspection_title.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\tour_inspection_title.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btn_back_map.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\btn_back_map.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xunshi__main.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_xunshi__main.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bus_result.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\item_bus_result.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\citylist_head.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\citylist_head.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ac_zbar_finder.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\ac_zbar_finder.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_date.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\slideDateTimePicker\\unspecified\\res\\layout\\fragment_date.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_actionsheet.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\view_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiangxiu_tools_remind.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_qiangxiu_tools_remind.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiangxiu_main.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_qiangxiu_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_call.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\popup_call.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\testlayout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\testlayout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_display.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_map_display.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiangxiu_preplanning_info.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_qiangxiu_preplanning_info.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_city_list.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\item_city_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_driveroute_detail.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_driveroute_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_main.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_map_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_alertdialog.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\taskplanitem_listviewitem.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\taskplanitem_listviewitem.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_fragment.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\user_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busroute_detail.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_busroute_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cloud_item_list.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\item_cloud_item_list.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\headl.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\headl.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\slideDateTimePicker\\unspecified\\res\\layout\\fragment_time.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_tab.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\slideDateTimePicker\\unspecified\\res\\layout\\custom_tab.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiangxiu_order_receive.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_qiangxiu_order_receive.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\repair_common.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\repair_common.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewitem_tourlist.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\listviewitem_tourlist.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_layout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xunjian_main.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_xunjian_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_white.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\header_white.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_fragment.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\alarm_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_date_time_picker.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\slideDateTimePicker\\unspecified\\res\\layout\\slide_date_time_picker.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listviewitem_repairlist.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\listviewitem_repairlist.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_blue.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\header_blue.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busroute_map.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_busroute_map.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_citylist.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\layout\\activity_citylist.xml"
+    }
+]

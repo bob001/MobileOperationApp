@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">苏管家</string>
+    <string name="use_tips">OO</string>
+
+    <string name="login_title">苏管家云维</string>
+    <string name="account">账 号：</string>
+    <string name="password">密 码：</string>
+    <string name="account_hint">请输入您的账号</string>
+    <string name="password_hint">请输入您的密码</string>
+    <string name="login_btn">登录</string>
+    <string name="logout">退出</string>
+
+    <!-- tab名称 -->
+    <string name="tab_operation">运维信息</string>
+    <string name="tab_alarm">告警信息</string>
+    <string name="tab_test">电气试验</string>
+    <string name="tab_personal">用户中心</string>
+
+    <!-- 二维码 -->
+    <string name="qr_tip">请将二维码置于取景框内扫描</string>
+    <string name="title_qr_text">扫码</string>
+
+    <!-- 维护 -->
+    <string name="inspection_list_text">巡检详细列表</string>
+    <string name="test_text">实验</string>
+    <string name="inspection_text">巡检</string>
+    <string name="tour_text">巡视</string>
+    <string name="repair_text">抢修</string>
+    <string name="transformer_test_text">变压器实验</string>
+    <string name="switch_test_text">开关实验</string>
+    <string name="cubicle_test_text">开关柜实验</string>
+    <string name="cable_test_text">电缆实验</string>
+    <string name="qr_text">扫一扫</string>
+
+    <!-- 巡检信息列表 -->
+    <string name="list_no_value">暂无任务</string>
+    <string name="list_loding">加载中，请稍等...</string>
+    <string name="list_refresh">下拉刷新</string>
+    <string name="list_last_refresh">上次更新</string>
+    <string name="tip_name">执行人员:</string>
+    <string name="tip_date">执行日期:</string>
+    <string name="search">请输入搜索内容</string>
+
+    <string name="titleTaskPlan">任务计划</string>
+    <string name="titleTaskDetail">任务详细</string>
+    <string name="titleTaskReply">任务回复</string>
+    <string name="companyDescription">
+        苏文电能科技有限公司是常州地区最大的电力行业设计以及项目管理和相关技术与服务的专业公司
+    </string>
+    <string name="hintDesp">
+        请在此处填写
+    </string>
+
+    <!--抢修-->
+    <string name="titleRepairList">抢修列表</string>
+    <string name="titleRepairTaskDetail">任务详细</string>
+    <string name="titleRepairPreplanDetail">预案详情</string>
+    <string name="titleRepairWarnDetail">告警详情</string>
+    <string name="titleRepairTools">工具提醒</string>
+
+    <!--巡视-->
+    <string name="titleTourList">巡视列表</string>
+    <string name="titleTourTaskDetail">任务详细</string>
+
+
+    <!-- common -->
+    <!-- 城市列表 -->
+    <string name="city_used">常用城市</string>
+    <string name="city_get_error">获取城市列表失败，请重试</string>
+    <string name="city_search_none">没有找到</string>
+    <string name="detail_title_des">详情页</string>
+    <string name="city_search_hint">搜索</string>
+    <string name="route_suggestion_walk">距离较近，建议您步行</string>
+
+    <!-- 云图数据列表页 -->
+    <string name="noDataDec">没有找到相关门店信息哦</string>
+    <!-- 详情页 -->
+
+    <string name="go_here">去这里</string>
+    <string name="detail_call">打电话</string>
+    <!-- 网络异常描述 -->
+    <string name="error_network">搜索失败,请检查网络连接！</string>
+    <string name="error_key">key验证无效！</string>
+    <string name="error_other">未知错误，请稍后重试!错误码为</string>
+    <string name="error_no_result">对不起，没有搜索到相关数据！</string>
+    <string name="error_no_more_item">"没有数据了"</string>
+    <string name="error_socket_timeout">连接超时</string>
+    <string name="error_scode">安全码错误</string>
+    <string name="error_table_id">tableID不存在</string>
+    <string name="error_route_result_walk">抱歉，没有帮您规划出合适的步行路线</string>
+    <string name="error_route_result_bus">抱歉，没有帮您规划出合适的公交路线</string>
+    <string name="error_route_result_drive">抱歉，没有帮您规划出合适的驾车路线</string>
+
+    <!-- 关键字检索页 -->
+    <string name="cancel">取消</string>
+    <string name="there_is_no_data">没有获得到数据</string>
+    <string name="network_error">网络错误</string>
+
+    <!-- 主页 -->
+    <string name="default_city">北京</string>
+    <string name="edittext_hint">输入商家、商圈、位置</string>
+    <string name="press_more_then_exit">再按一次退出程序</string>
+    <string name="locate_fail">定位失败</string>
+    <string name="pull_label">上拉刷新...</string>
+    <string name="refresh_label">正在载入...</string>
+    <string name="release_label">放开刷新...</string>
+
+    <!-- 地图页 -->
+    <string name="detail">详情</string>
+    <string name="map_title">门店</string>
+
+    <!-- 城市选择popup -->
+    <string name="current_city_is">当前城市：</string>
+    <string name="change_city">更换</string>
+
+    <!-- 城市选择页 -->
+    <string name="city_choose_title">城市选择</string>
+
+
+    <!-- 访问域名-->
+    <string name="webserverurl">http://61.177.76.218:8090/boyuan/</string>
+</resources>

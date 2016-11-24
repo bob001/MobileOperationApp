@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="巡视编号 : "/>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:id="@+id/tv_tour_number"
+                android:layout_height="wrap_content"
+                android:text="20160101"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="预巡日期 : "/>
+            <TextView
+                android:id="@+id/tv_pretour_date"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="2016-11-12"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="巡视类型 ： "/>
+            <TextView
+                android:id="@+id/tv_tour_category"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="正常巡视"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="预巡人 ： "/>
+            <TextView
+                android:id="@+id/tv_pretour_person"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="莫志剑"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="变电所ID ： "/>
+            <TextView
+                android:id="@+id/tv_bds_id"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="168870"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="变电所 ： "/>
+            <TextView
+                android:id="@+id/tv_bds_name"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="艾博机械"/>
+        </TableRow>
+        <TableRow
+            android:id="@+id/tr_tour_receive_time">
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:textColor="#2dd5e7"
+                android:text="接单时间 ： "/>
+            <TextView
+                android:id="@+id/tv_tour_receive_date"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:textColor="#2dd5e7"
+                android:text="2016-11-14"/>
+        </TableRow>
+    </TableLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <LinearLayout
+        android:id="@+id/ll_weather"
+        android:background="#d1d2dc"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <RelativeLayout
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/iv_weather_image"
+                android:src="@drawable/testpic_weather"
+                android:layout_width="20dp"
+                android:layout_height="20dp" />
+            <TextView
+                android:id="@+id/tv_weather"
+                android:layout_toRightOf="@id/iv_weather_image"
+                android:text="天气情况："
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/tv_weather_situation"
+                android:layout_toRightOf="@id/tv_weather"
+                android:text="多云转小雨"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/iv_temperature_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/tv_temperature"
+                android:layout_toRightOf="@id/iv_temperature_image"
+                android:text="温度情况："
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/tv_temperature_situation"
+                android:layout_toRightOf="@id/tv_temperature"
+                android:text="20℃"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

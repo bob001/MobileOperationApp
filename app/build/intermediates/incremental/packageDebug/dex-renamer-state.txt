@@ -1,0 +1,7 @@
+#Wed Nov 23 11:15:40 CST 2016
+base.0=E\:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c3718a936d205b000db37a2ede15d64f5e3e4abd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c331db4b03f5852d5d608e2cbaad2b51a0e54470\\classes.dex
+base.1=E\:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c331db4b03f5852d5d608e2cbaad2b51a0e54470
+file.0=E\:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c3718a936d205b000db37a2ede15d64f5e3e4abd\\classes.dex

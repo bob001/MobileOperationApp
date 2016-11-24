@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:my="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_order_handle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.swdn.activity_qiangxiu.OrderHandle">
+
+    <com.swdn.myview_qiu.TourInspectionTitleView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        my:titleName="@string/titleRepairTaskDetail"></com.swdn.myview_qiu.TourInspectionTitleView>
+
+    <com.swdn.myview_qiu.RepairCommonInfo
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.swdn.myview_qiu.RepairCommonInfo>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow>
+            <TextView
+                android:layout_margin="1dp"
+                android:text="到场时间 ： " />
+            <EditText
+                android:id="@+id/et_arrivalTime"
+                android:textSize="13dp"
+                android:layout_width="200dp"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_margin="1dp"
+                android:text="结束时间 ： " />
+
+            <EditText
+                android:id="@+id/et_endTime"
+                android:textSize="13dp"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_margin="1dp"
+                android:text="抢修人员 ： " />
+
+            <EditText
+                android:id="@+id/et_repairPersons"
+                android:textSize="13dp"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_margin="1dp"
+                android:text="故障原因 ： " />
+
+            <EditText
+                android:id="@+id/et_failureCause"
+                android:textSize="13dp"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_margin="1dp"
+                android:text="执行情况 ： " />
+
+            <EditText
+                android:id="@+id/et_execSituation"
+                android:textSize="13dp"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_margin="1dp"
+                android:text="备注 ： " />
+
+            <EditText
+                android:id="@+id/et_remarks"
+                android:textSize="13dp"/>
+        </TableRow>
+    </TableLayout>
+
+    <RelativeLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/rl_process"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:background="#0068e8"
+            android:layout_height="50dp">
+            <TextView
+                android:id="@+id/tv_repair_orderHandle"
+                android:text="处理完成"
+                android:textColor="#ffffff"
+                android:layout_centerInParent="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

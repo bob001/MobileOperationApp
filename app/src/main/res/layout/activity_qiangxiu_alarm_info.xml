@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:my="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_alarm_info"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.swdn.activity_qiangxiu.AlarmInfo">
+
+    <com.swdn.myview_qiu.TourInspectionTitleView
+        my:titleName="@string/titleRepairWarnDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.swdn.myview_qiu.TourInspectionTitleView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <ImageView
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TableRow>
+            <TextView
+                android:layout_margin="3dp"
+                android:text="报警设备位置 ： "/>
+            <TextView
+                android:id="@+id/alarm_device_location"
+                android:layout_margin="3dp"
+                android:text=""/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_margin="3dp"
+                android:text="报警内容 ： "/>
+            <TextView
+                android:id="@+id/alarm_content"
+                android:layout_margin="3dp"
+                android:text=""/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_margin="3dp"
+                android:text="报警类型 ： "/>
+            <TextView
+                android:id="@+id/alarm_type"
+                android:layout_margin="3dp"
+                android:text=""/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_margin="3dp"
+                android:text="告警发生时间 ： "/>
+            <TextView
+                android:id="@+id/alarm_occurtime"
+                android:layout_margin="3dp"
+                android:text=""/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_margin="3dp"
+                android:text="告警级别 ： "/>
+            <TextView
+                android:id="@+id/alarm_level"
+                android:layout_margin="3dp"
+                android:text=""/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_margin="3dp"
+                android:text="处理标志 ： "/>
+            <TextView
+                android:id="@+id/process_flag"
+                android:layout_margin="3dp"
+                android:text=""/>
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

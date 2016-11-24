@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <TextView
+            android:id="@+id/tv_taskId"
+            android:text="QX2016001"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="任务编码"
+            android:textColor="#909094"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/tv_taskId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="单位 : "/>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:id="@+id/tv_organization"
+                android:layout_height="wrap_content"
+                android:text="健康城C4厂房"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="负责人 : "/>
+            <TextView
+                android:id="@+id/tv_manager"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="莫志剑"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="班组 ： "/>
+            <TextView
+                android:id="@+id/tv_group"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="安装运维"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="故障类别 ： "/>
+            <TextView
+                android:id="@+id/tv_category"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="二次回路故障"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="故障地点 ： "/>
+            <TextView
+                android:id="@+id/tv_address"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="健康城C4厂房变电站"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:text="处理状态 ： "/>
+            <TextView
+                android:id="@+id/tv_process_state"
+                android:layout_marginLeft="3dp"
+                android:layout_height="wrap_content"
+                android:textColor="#ff0000"
+                android:text="未处理"/>
+        </TableRow>
+    </TableLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <TextView
+            android:id="@+id/tv_alarmInfo"
+            android:text="告警详情"
+            android:textStyle="bold"
+            android:textColor="#ff0000"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_assist"
+        android:background="#d1d2dc"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <TextView
+            android:id="@+id/tv_preplanning"
+            android:text="预案"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_toolRemind"
+            android:text="工具提醒"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_comehere"
+            android:text="到这里去"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>

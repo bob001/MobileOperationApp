@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.swdn"
+    android:versionCode="54"
+    android:versionName="5.2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <!-- 适配Android N系统必需的ContentProvider写权限声明，写权限包含应用包名 -->
+    <uses-permission android:name="baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.swdn" />
+
+    <permission
+        android:name="baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.swdn"
+        android:protectionLevel="normal" />
+
+    <!-- 二维码扫描权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        name="com.swdn.myappllication.MyApplication"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/sgjlogo1"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="aa5fb56e6d5e5ffb5af4fe8203e0766e" />
+
+        <!-- qiu -->
+        <activity android:name="com.swdn.activity_xunjian.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdn.activity_xunjian.DetaiInfoTourInspectionActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.qiu.listviewoftourinspection.DetaiInfoTourInspectionActivity" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.swdn.activity_xunjian.TourInspectionReplyActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.com.qiu.listviewoftourinspection.TourInspectionReplyActivity" />
+            </intent-filter>
+        </activity>
+        <!-- qiu -->
+
+
+        <!-- 配置活动开始 -->
+        <activity
+            android:name="com.swdn.xunjian.LoginActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.swdn.xunjian.HomeActivity"
+            android:theme="@style/title" />
+        <activity android:name="com.swdn.xunjian.InspectionListActivity" />
+        <!-- 二维码扫描活动 -->
+        <activity
+            android:name="com.swdn.xunjian.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 抢修模块begin -->
+        <activity android:name="com.swdn.activity_qiangxiu.QiangXiu_Main" />
+        <activity android:name="com.swdn.activity_qiangxiu.OrderReceive" />
+        <activity android:name="com.swdn.activity_qiangxiu.OrderHandle" />
+        <activity android:name="com.swdn.activity_qiangxiu.PreplanningInfo" />
+        <activity android:name="com.swdn.activity_qiangxiu.AlarmInfo" />
+        <activity android:name="com.swdn.activity_qiangxiu.ToolsRemind" />
+        <!-- 抢修模块end -->
+
+
+        <!-- 导航模块开始 -->
+        <activity android:name="com.amapsw.MapMainActivity" />
+        <activity android:name="com.amapsw.BusRouteDetailActivity" />
+        <activity android:name="com.amapsw.MapActivity" />
+        <activity android:name="com.amapsw.DriveRouteDetailActivity" />
+        <activity android:name="com.amapsw.WalkRouteDetailActivity" />
+        <activity android:name="com.amapsw.BusRouteMapActivity" />
+        <!-- -导航模块结束 -->
+
+
+        <!-- 配置活动结束 -->
+        <!-- push应用定义消息receiver声明 -->
+        <receiver android:name="com.swdn.receiver.MyPushMessageReceiver" >
+            <intent-filter>
+
+                <!-- 接收push消息 -->
+                <action android:name="com.baidu.android.pushservice.action.MESSAGE" />
+                <!-- 接收bind,unbind,fetch,delete等反馈消息 -->
+                <action android:name="com.baidu.android.pushservice.action.RECEIVE" />
+                <action android:name="com.baidu.android.pushservice.action.notification.CLICK" />
+            </intent-filter>
+        </receiver>
+
+        <!-- push必须的receviver和service声明 -->
+        <receiver
+            android:name="com.baidu.android.pushservice.PushServiceReceiver"
+            android:process=":bdservice_v1" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="com.baidu.android.pushservice.action.notification.SHOW" />
+                <action android:name="com.baidu.android.pushservice.action.media.CLICK" />
+                <!-- 以下四项为可选的action声明，可大大提高service存活率和消息到达速度 -->
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.baidu.android.pushservice.RegistrationReceiver"
+            android:process=":bdservice_v1" >
+            <intent-filter>
+                <action android:name="com.baidu.android.pushservice.action.METHOD" />
+                <action android:name="com.baidu.android.pushservice.action.BIND_SYNC" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.baidu.android.pushservice.PushService"
+            android:exported="true"
+            android:process=":bdservice_v1" >
+            <intent-filter>
+                <action android:name="com.baidu.android.pushservice.action.PUSH_SERVICE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.baidu.android.pushservice.CommandService"
+            android:exported="true" />
+
+        <!-- 适配Android N系统必需的ContentProvider声明，写权限包含应用包名 -->
+        <provider
+            android:name="com.baidu.android.pushservice.PushInfoProvider"
+            android:authorities="com.swdn.bdpush"
+            android:exported="true"
+            android:protectionLevel="signature"
+            android:writePermission="baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.swdn" />
+
+        <activity android:name="com.swdn.activity_xunshi.XunShi_Main" />
+        <activity android:name="com.swdn.activity_xunshi.OrderHandle" />
+        <activity android:name="com.swdn.activity_xunshi.OrderReceive" />
+    </application>
+
+</manifest>

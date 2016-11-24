@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bc1e3b399f257c35ee9d9cab899d7addea55c429">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c331db4b03f5852d5d608e2cbaad2b51a0e54470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\libs\Android_Location_V1.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b64d1f38ef7ee28b538d61a39d040f249c65587c">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Location_V1.3.2_09e9f96ee94b6ccf62d52e5559a8bca33ac7a447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_34a57f82165fcc191123ae4d70b3d0379c72c265\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\libs\core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a190a9f5bce922a94fe0eec5235abe8fc10900a">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\2\core_e4460bbc9c8a3184fed11714ba3a135813aea618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_d88527eb2069d0132a8ffd6588642c1ad4df2c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\libs\zbar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\2\zbar_9a8468a31011af814059deae39b251e9fad1073d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.2\1f96456ca233dec780aa224bff076d8e8bca3908\gson-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.2_e3321f93d2c607ce1ce114407a1fb6ab0f63fbb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_619e39643e9826407fd7097897b1ba9b4dcac704\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="757b799b633117f112f1d99a9b75b015449566c8">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c3718a936d205b000db37a2ede15d64f5e3e4abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\libs\AMap_3DMap_V2.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="49c1dc076a092ae24d5980a6c8d20f08af849ea0">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_3DMap_V2.4.1_8ab5a9f74209a0bc16f2d79d9ad83f7407d62e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\libs\Volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\2\Volley_df066e904d349565049977199cfeaa2031aaa95c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\libs\AMap_Services_V2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3057067b0d15469c99c2e8b1a87d66c94862ac7a">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Services_V2.4.0_3a248fead1dc119bebf1b3968532730fe6209dc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\libs\pushservice-5.2.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="faca3beecf0f68ff0ade49b9165c16ee14247a42">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\2\pushservice-5.2.0.12_d70dfadf937dac904082ddfa3959aa81f7f4b32b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_7599f1f5b96854400fdcd4e06664d6018044ffb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_ee30b734e29f514b92e45fa4eebd0e9238818d87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_285a318fe2147566e616695d3dcde466db140cba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Workspace\xunjian\app\libs\Android_Cloud_V1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a8ebb100b63e234733e2ed775db7d8ed46104e11">
+        <dex dex="E:\Android_Workspace\xunjian\app\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Cloud_V1.2.0_45a5e3098e5dedf8f3ff2438abaa88f17ce981e3\classes.dex" />
+    </item>
+
+</items>

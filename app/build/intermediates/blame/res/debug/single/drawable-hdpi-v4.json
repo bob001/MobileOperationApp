@@ -1,0 +1,702 @@
+[
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_press.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\map_press.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_focus_.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_focus_.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir4.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir4.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_fav_enable.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\icon_fav_enable.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_down_white.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\arrow_down_white.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_10.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_10.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cloud_walk.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\cloud_walk.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_normal_.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_normal_.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_5.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_5.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_1.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_1.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\route_start.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\route_start.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_personal_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_personal_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_focus.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dot_focus.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir13.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir13.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cubicle_test_btn.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\cubicle_test_btn.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_off.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\location_off.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir_start.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir_start.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\PullToRefreshListView\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_against_active.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\icon_against_active.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drive_select.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\drive_select.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame_background.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\frame_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_right_blue.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\arrow_right_blue.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_6.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_6.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_2.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_2.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir12.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir12.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\road_condition_on.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\road_condition_on.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_right_gray.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\arrow_right_gray.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\minus_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\minus_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_cart_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_cart_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir3.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir3.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\repair_btn.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\repair_btn.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drive.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\drive.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_up.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\pull_up.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir5.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir5.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_press.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\btn_back_press.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_infowindow.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\bg_infowindow.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_3.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_3.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_4.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_4.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_against_enable.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\icon_against_enable.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_users_avatar.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\default_users_avatar.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_disable.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\add_disable.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_down.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\pull_down.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_focus.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_focus.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\cancel.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\passby_marker.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\passby_marker.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_image.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\home_image.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goto_map_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\goto_map_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\walk.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\walk.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goto_list_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\goto_list_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir_station.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir_station.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir7.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir7.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transformer_test_btn.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\transformer_test_btn.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tour_btn.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\tour_btn.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_network_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_network_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\homepage.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\homepage.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\road_condition_off.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\road_condition_off.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_post_enable.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\icon_post_enable.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qr_btn.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\qr_btn.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_blur.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dot_blur.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bus_select.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\bus_select.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_7.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_7.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar_bg.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\top_bar_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_navi.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\map_navi.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_personal_focus.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_personal_focus.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_screen7201280.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\splash_screen7201280.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goto_map_pressed.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\goto_map_pressed.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_10.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_10.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_3.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_3.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_pressed.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\add_pressed.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cloud_bus.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\cloud_bus.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zx_code_kuang.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\zx_code_kuang.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir11.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir11.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\noarrow.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\noarrow.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bg.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\top_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start_marker.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\start_marker.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selection_divider.9.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\slideDateTimePicker\\unspecified\\res\\drawable-hdpi-v4\\selection_divider.9.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\map_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\map_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\end_marker.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\end_marker.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\add_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir14.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir14.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_7.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_7.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_4.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_4.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir1.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir1.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\walk_select.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\walk_select.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_btn_image.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\back_btn_image.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_home_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_home_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_icon_white.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\search_icon_white.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_corner.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\image_corner.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qr_button.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\qr_button.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_6.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_6.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\route_end.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\route_end.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cable_test_btn.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\cable_test_btn.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir_end.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir_end.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zx_code_line.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\zx_code_line.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_for_active.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\icon_for_active.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splitline.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\splitline.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\linearlayout.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\linearlayout.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_list_up.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\arrow_list_up.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bus.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\bus.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_network_focus.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_network_focus.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir9.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir9.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_8.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_8.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clear_input.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\clear_input.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_9.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_9.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_5.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_5.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_btn.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\test_btn.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir8.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir8.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_home_shortcuts_item_bg.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\android_home_shortcuts_item_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_list_down.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\arrow_list_down.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_tab_active.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\top_tab_active.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_1.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_1.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\android_home_shortcuts_item_bg_focused.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\android_home_shortcuts_item_bg_focused.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\PullToRefreshListView\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone_icon.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\phone_icon.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_tab_background3.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\top_tab_background3.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir10.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir10.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goto_list_pressed.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\goto_list_pressed.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_2.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_2.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_up_white.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\arrow_up_white.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_on.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\location_on.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\side_icon.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\side_icon.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_buttom_layout_bg.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_buttom_layout_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm.xml",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\confirm.xml"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.jpg",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\logo.jpg"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unfinish.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\unfinish.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_bottom_tab_cart_focus.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\main_bottom_tab_cart_focus.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_content_pic.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\default_content_pic.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_pictures.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\no_pictures.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir2.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir2.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_back_normal.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_pressed_9.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed_9.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\trans_bg.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\trans_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_back_img_write.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\title_back_img_write.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir15.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir15.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\airplane.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\airplane.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cloud_car.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\cloud_car.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir6.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\dir6.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_fav_active.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\icon_fav_active.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\minus_disable.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\minus_disable.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\minus_pressed.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\minus_pressed.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_icon.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\location_icon.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\finish.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\finish.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inspection_btn.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\inspection_btn.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_left_backbtn_gray.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\arrow_left_backbtn_gray.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_left_backbtn_white.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\arrow_left_backbtn_white.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_for_enable.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\icon_for_enable.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\xunjian\\PullToRefreshListView\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\poi_marker_8.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_8.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_test_btn.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\switch_test_btn.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "E:\\Android_Workspace\\xunjian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\publicloading.png",
+        "source": "E:\\Android_Workspace\\xunjian\\app\\src\\main\\res\\drawable-hdpi\\publicloading.png"
+    }
+]

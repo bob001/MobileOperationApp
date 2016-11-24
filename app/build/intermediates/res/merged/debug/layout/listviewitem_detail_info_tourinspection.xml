@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<View-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="1dp"-->
+    <!--android:id="@+id/v_line"-->
+    <!--android:layout_above="@+id/btn_toReply"-->
+    <!--android:layout_alignLeft="@+id/tl_detailinfo"-->
+    <!--android:background="#33000000" />-->
+
+    <!--<Button-->
+    <!--android:id="@+id/btn_toReply"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_above="@+id/tl_detailinfo"-->
+    <!--android:background="#ffffff"-->
+    <!--android:text="点击回复"-->
+    <!--android:layout_alignParentRight="true"/>-->
+
+    <FrameLayout
+        android:id="@+id/fl_sno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:scaleType="center"
+            android:src="@drawable/serial_number1" />
+
+        <TextView
+            android:id="@+id/tv_sno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="12dp"
+            android:text="1"
+            android:textSize="30dp" />
+        <!--<TextView-->
+        <!--android:id="@+id/tv_sno"-->
+        <!--android:gravity="center_horizontal"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:background="@drawable/serial_number" />-->
+    </FrameLayout>
+
+    <com.swdn.myview_qiu.TourInspectionDetailInfoView
+        android:id="@+id/tiDetailInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/fl_sno">
+
+
+    </com.swdn.myview_qiu.TourInspectionDetailInfoView>
+
+
+
+    <!--<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:id="@+id/tl_detailinfo"-->
+    <!--android:layout_alignTop="@+id/fl_sno"-->
+    <!--android:layout_alignBottom="@+id/fl_sno"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/fl_sno">-->
+
+    <!--<TableRow>-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_weight="1">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_devId"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="设备编码：" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_deviceId"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/tv_devId"-->
+    <!--android:text="236" />-->
+    <!--</RelativeLayout>-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_weight="1">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_devName"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="设备名称：" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_deviceName"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/tv_devName"-->
+    <!--android:text="高压变压器" />-->
+    <!--</RelativeLayout>-->
+    <!--</TableRow>-->
+
+    <!--<TableRow>-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_weight="1">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_devType"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="设备类型：" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_deviceType"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/tv_devType"-->
+    <!--android:text="变压器" />-->
+    <!--</RelativeLayout>-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_weight="1">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_instLoc"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="安装位置：" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_installLocation"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/tv_instLoc"-->
+    <!--android:text="变电所A区" />-->
+    <!--</RelativeLayout>-->
+    <!--</TableRow>-->
+
+    <!--<TableRow>-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_weight="1">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_tiDate"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="巡视日期：" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_tourInspDate"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/tv_tiDate"-->
+    <!--android:text="2016-9-23" />-->
+    <!--</RelativeLayout>-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_weight="1">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_tiPerson"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="预巡人：" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_tourInspPerson"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/tv_tiPerson"-->
+    <!--android:text="郭晓昌" />-->
+    <!--</RelativeLayout>-->
+    <!--</TableRow>-->
+
+    <!--<TableRow>-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_weight="1">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_tiKey"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="预巡重点：" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_tourInspKey"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/tv_tiKey"-->
+    <!--android:text="正常运行" />-->
+    <!--</RelativeLayout>-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_weight="1">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_remarks"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="备注：" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_remark"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/tv_remarks"-->
+    <!--android:text="是否损坏" />-->
+    <!--</RelativeLayout>-->
+    <!--</TableRow>-->
+    <!--</TableLayout>-->
+</RelativeLayout>
+
+    <!--<Button--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--android:layout_gravity="right"--><!--android:textColor="#ffffff"--><!--android:id="@+id/btn_toReply"--><!--android:background="@drawable/frame_background"--><!--android:text="点击回复"/>-->
+

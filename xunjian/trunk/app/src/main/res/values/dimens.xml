@@ -1,0 +1,67 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 四类字体大小 -->
+    <dimen name="micro_text_size">12sp</dimen>
+    <dimen name="small_text_size">14sp</dimen>
+    <dimen name="medium_text_size">18sp</dimen>
+    <dimen name="large_text_size">22sp</dimen>
+    <!-- 四类字体大小 -->
+
+
+    <!-- 首页Gallery高度 -->
+    <dimen name="index_gallery_height">120dp</dimen>
+    <!-- 首页Gallery高度 -->
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="titlebar_height_city_choose">98dp</dimen>
+    <dimen name="imgadd_height">100dp</dimen>
+    <dimen name="imgadd_width">100dp</dimen>
+    <dimen name="claim_first_item_height">52dp</dimen>
+    <dimen name="city_used">180dp</dimen>
+    <dimen name="menu_right">129dp</dimen>
+    <dimen name="line_height">0.6dp</dimen>
+    <dimen name="huodong_add_paddding_left">15dp</dimen>
+    <!-- Scheme common -->
+    <dimen name="divider_width">1dp</dimen>
+    <dimen name="zero">0dp</dimen>
+
+
+    <!-- index页面 -->
+    <dimen name="offset_noData_text_top">30dp</dimen>
+    <dimen name="textsize_noData_text">18sp</dimen>
+    <dimen name="offset_left">14dp</dimen>
+    <dimen name="index_offset">4dp</dimen>
+    <dimen name="index_map_width">25dp</dimen>
+    <dimen name="index_map_hight">34dp</dimen>
+    <dimen name="index_input_height">32dp</dimen>
+
+    <!-- 详情页 -->
+    <dimen name="title_height">48dp</dimen>
+    <dimen name="offset_title_left">15dp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="detail_common_offset_left">12dp</dimen>
+    <dimen name="detail_img_offset_top">8dp</dimen>
+    <dimen name="detail_img_size">80dp</dimen>
+    <dimen name="detail_img_offset_right">11dp</dimen>
+    <dimen name="detail_txt_name_size">16sp</dimen>
+    <dimen name="detail_size_img_des">12sp</dimen>
+    <dimen name="detail_size_name_address">13sp</dimen>
+    <dimen name="identify_text_size">14sp</dimen>
+    <dimen name="titlebar_height">48dp</dimen>
+    <dimen name="detail_offset_right">12dp</dimen>
+    <dimen name="detail_phone_icon_size">20dp</dimen>
+
+    <!-- 路径规划页 -->
+    <dimen name="bus_strategy_corners">3dp</dimen>
+    <dimen name="busroute_offset">12dp</dimen>
+    <dimen name="busroute_line_des_height">35dp</dimen>
+    <dimen name="busroute_text_size_big">16sp</dimen>
+    <dimen name="busroute_text_size_small">13sp</dimen>
+
+
+</resources>
